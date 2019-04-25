@@ -1,0 +1,10 @@
+PN1_placenta	200610-100	[T/C]	MT	15172	-	C	C
+PN1_placenta	200610-102	[A/G]	X	125	-	A	A
+PN1_placenta	200610-105	[A/G]	MT	236	-	A	A
+PN1_placenta	200610-110	[A/G]	MT	3027	-	A	A
+PN1_placenta	200610-111	[T/C]	X	3396	+	T	C
+PN1_placenta	200610-112	[A/G]	MT	3644	-	A	A
+PN1_placenta	200610-113	[A/G]	MT	3645	-	A	A
+PN1_placenta	200610-114	[T/C]	MT	3826	+	T	T
+PN1_placenta	200610-115	[A/G]	MT	4023	-	A	A
+PN1_placenta	200610-120	[A/G]	MT	5108	-	A	A

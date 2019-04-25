@@ -1,0 +1,10 @@
+MT	15172	.	A	G	.	.	AC=.;AF=.;AN=.;DB;DP=.;ExcessHet=.;MLEAF=.;set=Intersection	GT	1/1
+X	125	.	T	C	.	.	AC=.;AF=.;AN=.;DB;DP=.;ExcessHet=.;MLEAF=.;set=Intersection	GT	0/0
+MT	236	.	T	C	.	.	AC=.;AF=.;AN=.;DB;DP=.;ExcessHet=.;MLEAF=.;set=Intersection	GT	0/0
+MT	3027	.	T	C	.	.	AC=.;AF=.;AN=.;DB;DP=.;ExcessHet=.;MLEAF=.;set=Intersection	GT	0/0
+X	3396	.	T	C	.	.	AC=.;AF=.;AN=.;DB;DP=.;ExcessHet=.;MLEAF=.;set=Intersection	GT	0/1
+MT	3644	.	T	C	.	.	AC=.;AF=.;AN=.;DB;DP=.;ExcessHet=.;MLEAF=.;set=Intersection	GT	0/0
+MT	3645	.	T	C	.	.	AC=.;AF=.;AN=.;DB;DP=.;ExcessHet=.;MLEAF=.;set=Intersection	GT	0/0
+MT	3826	.	T	C	.	.	AC=.;AF=.;AN=.;DB;DP=.;ExcessHet=.;MLEAF=.;set=Intersection	GT	0/0
+MT	4023	.	T	C	.	.	AC=.;AF=.;AN=.;DB;DP=.;ExcessHet=.;MLEAF=.;set=Intersection	GT	0/0
+MT	5108	.	T	C	.	.	AC=.;AF=.;AN=.;DB;DP=.;ExcessHet=.;MLEAF=.;set=Intersection	GT	0/0
